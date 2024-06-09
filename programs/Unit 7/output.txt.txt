@@ -1,0 +1,8 @@
+zzz has duplicates.
+dog has no duplicates.
+bookkeeper has duplicates.
+subdermatoglyphic has no duplicates.
+subdermatoglyphics has duplicates.
+zzz is missing letters a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y
+subdermatoglyphic is missing letters f,j,k,n,q,v,w,x,z
+the quick brown fox jumps over the lazy dog uses all letters

@@ -1,0 +1,7 @@
+ Eleven or Jane Hopper : ['Millie Bobby Brown ']
+ Mike Wheeler : ['Finn Wolfhard ']
+ Will Byer : ['Noah Schnapp ']
+ Max : ['Sadie Sink ']
+ Dustin Henderson : ['Gaten Matarazzo ']
+ Lucasa Sinclair : ['Caleb Mclaughlin ']
+ Steve Harrington : ['Joe Keeten ']

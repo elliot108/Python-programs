@@ -1,0 +1,7 @@
+['Arya', 'Sansa', 'Bran']
+
+Orginal dictionary
+{'Targaryen': ['Rhaenyra', 'Viserys', 'Daemon', 'Alicent'], 'Stark': ['Arya', 'Sansa', 'Bran'], 'Hightower': ['Otto', 'Alicent']}
+
+Inverted dictionary
+{'Rhaenyra': ['Targaryen'], 'Viserys': ['Targaryen'], 'Daemon': ['Targaryen'], 'Alicent': ['Targaryen', 'Hightower'], 'Arya': ['Stark'], 'Sansa': ['Stark'], 'Bran': ['Stark'], 'Otto': ['Hightower']}
